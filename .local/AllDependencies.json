@@ -1069,8 +1069,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "GenerateYearlyReport",
-      "projectName": "GenerateYearlyReport",
+      "projectUniqueName": "GenerateYearlyReport_DispatcherProcess",
+      "projectName": "GenerateYearlyReport_DispatcherProcess",
       "projectPath": "C:\\Users\\sai\\Documents\\UiPath\\GenerateYearlyReport\\.local",
       "packagesPath": "C:\\Users\\sai\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sai\\Documents\\UiPath\\GenerateYearlyReport\\.local"
