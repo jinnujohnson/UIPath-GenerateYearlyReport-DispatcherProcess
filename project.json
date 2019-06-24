@@ -1,5 +1,5 @@
 {
-  "name": "GenerateYearlyReport_Dispatcher",
+  "name": "GenerateYearlyReport_DispatcherProcess",
   "description": "Dispatcher Process under Generate yearly report for vendor using UIPath Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
