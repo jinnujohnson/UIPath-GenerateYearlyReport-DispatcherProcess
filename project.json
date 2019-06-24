@@ -1,0 +1,29 @@
+{
+  "name": "GenerateYearlyReport",
+  "description": "Generate yearly report for vendor using UIPath Robotic Enterprise Framework",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPath.Excel.Activities": "[2.6.0]",
+    "UiPath.Mail.Activities": "[1.5.0]",
+    "UiPath.System.Activities": "[19.5.0]",
+    "UiPath.UIAutomation.Activities": "[19.5.0]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "19.5.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "webServices": []
+}
